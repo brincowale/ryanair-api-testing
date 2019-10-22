@@ -1,0 +1,7 @@
+karate-bdd-tests/.idea/
+behave-insert-data/.idea/
+.idea/
+/__pycache__/
+*/__pycache__/*
+behave-insert-data/features/__pycache__/
+karate-bdd-tests/target/surefire-reports/
